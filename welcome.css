@@ -1,0 +1,32 @@
+.pol{
+	background-image: url("welcome1.jpg");
+	height: 700px;
+}
+.navka{
+	font-family: Monotyre Captiva;
+	color: black;
+	font-size: 30px;
+	height: 70px;
+	padding-left: 50px;
+	padding-top: 15px;
+}
+.radio{
+	padding-left: 120px;
+}
+.main{
+	color: black;
+}
+p{
+	padding-left: 175px;
+	font-family: Monotyre Captiva;
+}
+body {
+  background: url('rekaa.png');
+  background-size: cover;
+  -webkit-touch-callout: none;
+  -webkit-user-select:none;
+  -khtml-user-select: none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}

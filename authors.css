@@ -1,0 +1,51 @@
+p{
+    padding-left: 260px;
+    font-size: 25px;
+}
+.body{
+    /*text-align: center;*/
+    font-size: 10px;
+}
+.table{
+    width:70%;
+    padding: center;
+    font-size: 15px;
+    color: white;
+}
+.up{
+    padding-left: 30px;
+    font-size: 50px;
+    font-family: Monotyre Captiva;
+    background-image: url("Seattle.jpg");
+    height: 200px;
+    font-size: 50px;
+}
+.up a{
+    color: black;
+}
+.up a:hover{
+    color: grey;
+    text-decoration: none;
+}
+
+.cont{
+    background-image: url("fon.jpg");
+    color: white;
+    height: 600px;
+    padding-left: 200px;
+
+}
+@media only screen and(max-width:1063px;){
+    .link-1{
+        margin:0 15px;
+    }
+}
+@media only screen and (max-width: 768px;){
+    .nav{
+        display: none;
+        text-align: left;
+        margin-left: 30px;
+        margin-top: -10px;
+    }
+}
+

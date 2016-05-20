@@ -1,0 +1,138 @@
+.container img{
+/*    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {*/
+      width: 70%;
+      height: 400px !important;
+      margin: auto;
+}
+.container{
+	background-image: url("fon.jpg");
+	width: 100%;
+}
+.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-decoration: none;
+    height:50px;
+  -webkit-touch-callout: none;
+  -webkit-user-select:none;
+  -khtml-user-select: none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}
+a{
+	color: white;
+}
+li {
+    float: left;
+}
+.active{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+.bec{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+    text-decoration: none;
+    color: pink;
+}
+.topact{
+	margin-top: 10px;
+	border: 2px;
+}
+div.img {
+    margin: 2px;
+    margin-left: 0px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 180px;
+    margin-top: 60px;
+    height: 200px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: 200px !important;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+div.img1 {
+    margin: 2px;
+    margin-left: 140px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 180px;
+    margin-top: 70px;
+    height: 200px;
+}
+
+div.img1:hover {
+    border: 1px solid #777;
+}
+
+div.img1 img{
+    width: 100%;
+    height: 200px !important;
+}
+.top{
+	height: 600px;
+	background-image: url("kni.jpg");
+}
+.block{
+	text-align: center;
+	padding-top: 250px;
+	font-family: Monotyre Captiva;
+	font-size: 50px;
+	background-image: url("ящк.jpg");
+	height: 500px;
+}
+/*.main{
+	background: url("w.jpg");
+}*/
+button{
+    background-color: grey;
+    outline: none;
+    border-radius: 8px;
+    padding-right: 25px;
+    text-align: center;
+    padding-top: 5px;
+    float:right;
+}
+button:hover{
+    color: pink;
+    text-decoration: none;
+}
+@media only screen and(max-width:1063px;){
+    .link-1{
+        margin:0 15px;
+    }
+}
+@media only screen and (max-width: 768px;){
+    .nav{
+        display: none;
+        text-align: left;
+        margin-left: 30px;
+        margin-top: -10px;
+    }
+}
+

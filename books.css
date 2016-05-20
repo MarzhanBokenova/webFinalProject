@@ -1,0 +1,149 @@
+#top {
+    font-size:30px; 
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-align: left;
+    text-decoration: none; 
+    background-image: url("Seattle.jpg");
+    background-position: center;
+    height: 100px; 
+ -webkit-touch-callout: none;
+  -webkit-user-select:none;
+  -khtml-user-select: none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;}
+
+img{
+    style=width:70px; height:70px;}
+#mmm{
+    background-image:url("fon.jpg");
+    height: 1160px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 5px; 
+    font-color: white;
+    padding-top: 10px;
+    font-size: 18px;
+    float: left;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+input[type=text], [type=password], select {
+    width: 60%;
+    padding: 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 25%;
+    background-color: grey;
+    color: white;
+    padding: 8px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: black;
+}
+#content{
+    height: 250px;
+    border-radius: 8px;
+    border: 4px solid black;
+    padding-left: 82px;
+    padding-top: 7px;
+    margin-top: 7px;
+    margin-left: 11px;
+    float: left; 
+    background-color: #333;
+    width: 86%;
+    /*position: left;*/
+    color: white;
+    font-size: 14px;
+    display: inline;
+    font-weight: 70%;
+}
+.img{
+    height: 120px;
+    float: left;
+}
+#reklama{
+     background-image:url("fon.jpg");
+    height: 1160px;
+    width: 265px;
+    border-radius: 10px;
+    font-color: white;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 1065px;
+    padding-top: 10px;
+
+}
+#maincontent{
+    position: center;
+    /*background-color: red;*/
+    /*height: 250px;*/
+    width: 820px;
+    margin-left: 10px;
+    float: left;
+    /*margin-top: 5px;*/
+}
+#end {
+    font-size:20px; 
+    border-radius: 8px;
+    color: white;
+    text-align: left;
+    text-decoration: none; 
+    background-image: url("fon.jpg");
+    /*background-color: red;*/
+    height: 130px; 
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-left: 5px;
+    width: 100%;
+}
+/*#fu{
+    border: 3px solid black;
+    border-radius: 8px;
+    width: 90%;
+    background-color: #333;
+}
+#nn{
+    margin-top: 3px;
+    border: 3px solid black;
+    border-radius: 8px;
+    width: 90%;
+    background-color: #333;
+    height:300px;
+}*/
+

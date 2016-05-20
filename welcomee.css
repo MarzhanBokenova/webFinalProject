@@ -1,0 +1,22 @@
+.pol{
+	background-image: url("welcome1.jpg");
+	height: 700px;
+}
+.navka{
+	font-family: Monotyre Captiva;
+	color: black;
+	font-size: 30px;
+	height: 70px;
+	padding-left: 50px;
+	padding-top: 15px;
+}
+.radio{
+	padding-left: 120px;
+}
+.main{
+	color: black;
+}
+.form-group{
+	padding-top: 90px;
+	padding-left: 30px;
+}
